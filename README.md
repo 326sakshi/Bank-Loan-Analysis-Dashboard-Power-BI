@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis-Dashboard-Power-BI
+# Bank Loan Analysis Dashboard Power BI
 
 **DASHBOARD 1; SUMMARY**
 Good Loan v Bad Loan KPI's
